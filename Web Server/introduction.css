@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Raleway";
+    src: url(Fonts/static/Raleway-Regular.ttf);
+}
+
+.textFormatting {
+    color:white;
+    font-family: "Raleway";
+}
+
+#infoSection {
+    width: 50%;
+    background-color: grey;
+}

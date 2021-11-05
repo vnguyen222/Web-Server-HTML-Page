@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Raleway";
+    src: url(Fonts/static/Raleway-Regular.ttf);
+}
+
+body {
+    background-color: #171717;
+}
+
+#topBar {
+    padding: 10px;
+    height: 2.5em;
+    width: 98.5%;
+    background-color:grey;
+    margin-bottom: 1em;
+}
+
+.barOptions {
+    font-size: 2em;
+    color: white;
+    padding: 2em;
+    font-family: "Raleway";
+    text-decoration: none;
+}
+
+.barOptions:hover {
+    background-color: #171717;
+    height: 2.5em;
+}
