@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #171717;
+    background-color: #121212;
 }
 
 #topBar {
@@ -24,6 +24,6 @@ body {
 }
 
 .barOptions:hover {
-    background-color: #171717;
-    height: 2.5em;
+    background-color: #121212;
+    
 }
