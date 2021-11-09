@@ -1,10 +1,14 @@
 
-
-
 #textSection {
     padding: 10px;
     height: 10em;
     width: 98.5%;
-    background-color: #6A6A6A;
+    background-color: white;
     margin-bottom: 1em;
+}
+
+#heading {
+    text-align: center;
+    padding-top: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

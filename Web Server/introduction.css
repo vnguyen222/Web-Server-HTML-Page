@@ -8,7 +8,25 @@
     font-family: "Raleway";
 }
 
-#infoSection {
-    width: 50%;
-    background-color: grey;
+.infoSection {
+    width: 100%;
+    color: black;
+}
+
+#representationImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#mailtoIcon {
+    padding-left: 1em;
+    width: 2.5%;
+    height: 2.5%;
+}
+
+.infoHeading {
+    padding-top: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
