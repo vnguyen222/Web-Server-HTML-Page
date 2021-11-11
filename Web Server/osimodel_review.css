@@ -1,0 +1,29 @@
+
+
+#textSection {
+    padding: 10px;
+    height: 10em;
+    width: 98.5%;
+    background-color: white;
+    margin-bottom: 1em;
+}
+
+
+
+.osiModel{
+    display: inline-block;
+}
+
+.osiModel .level {
+    height: 1em;
+    width: 15em;
+    padding: 1em;
+    text-align: center;
+    color: white;
+    border-radius: 6px;
+    margin-bottom: 0.5em;    
+}
+
+.osiInformation {
+    display: inline-block;
+}
