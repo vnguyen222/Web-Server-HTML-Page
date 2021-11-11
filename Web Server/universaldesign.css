@@ -13,6 +13,7 @@ body {
 
 #topBar {
     padding: 10px;
+    padding-top: 0.7em;
     height: 2.5em;
     width: 98.5%;
     background-color:grey;
@@ -23,14 +24,17 @@ body {
 .barOptions {
     font-size: 2em;
     color: white;
-    padding: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
     font-family: "Raleway-Bold";
     text-decoration: none;
+    border-radius: 8px;
 }
 
 .barOptions:hover {
     background-color: #121212;
-    
 }
 
 .body {

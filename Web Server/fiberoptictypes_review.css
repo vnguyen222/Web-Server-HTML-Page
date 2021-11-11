@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Raleway";
+    src: url(Fonts/static/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: "Raleway-Bold";
+    src: url(Fonts/static/Raleway-Bold.ttf);
+}
+
+
+#cableInfoTable {
+    border: 1px solid black;
+    width:100%;
+}
+
+th {
+    font-family: "Raleway-Bold";
+    font-size: 1.5em;
+    border-right: 1px solid black;
+    border-bottom: 3px solid black;
+}
+
+tr {
+    font-family: "Raleway";
+}
+
+td {
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+
